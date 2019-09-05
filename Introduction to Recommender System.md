@@ -1,4 +1,4 @@
-# Recommender Systems Introduction
+# 1. Recommender Systems Introduction
 
 ## The Long Tail
 
